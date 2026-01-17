@@ -13,3 +13,5 @@ git add .
 ##提交代码
 git commit
 ```
+
+### 常用的shell命令
